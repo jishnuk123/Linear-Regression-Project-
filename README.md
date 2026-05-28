@@ -3,7 +3,7 @@
 A linear regression model built from scratch using PyTorch, trained on the 
 California Housing dataset to predict house prices.
 
-🚀 **[Live App](https://california-house-predictor-jk.streamlit.app)**
+**[Live App](https://california-house-predictor-jk.streamlit.app)**
 
 ## Project Overview
 
